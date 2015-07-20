@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TrackitCoach</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_coach__main__page">Coach_Main_Page</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_review__page">Review_Page</string>
+    <string name="title_activity_tracking__page">Tracking_Page</string>
+    <string name="title_activity_run_long">RunLongActivity</string>
+    <string name="title_activity_run_event">RunEventActivity</string>
+</resources>

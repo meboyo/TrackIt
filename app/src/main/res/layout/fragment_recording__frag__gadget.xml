@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.todd.trackitcoach.Recording_Frag_Gadget">
+
+    <!-- TODO: Update blank fragment layout -->
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="192dp"
+        android:inputType="textMultiLine"
+        android:ems="10"
+        android:id="@+id/Recording_Text_field"
+        android:layout_gravity="center_horizontal|bottom"
+        android:text="Eat Mor3 Chik3n" />
+
+</FrameLayout>
